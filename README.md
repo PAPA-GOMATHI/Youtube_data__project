@@ -5,10 +5,10 @@ Youtube Data harvesting and data warehousing using MongoDB, Postgresql, Streamli
 
 INTRODUCTION -
 --------------
-~ Creating a Streamlit application that allows users to access and analyze the data from multiple Youtube channels through the Youtube 
+1. Creating a Streamlit application that allows users to access and analyze the data from multiple Youtube channels through the Youtube 
    api key with all youtube channels ID's
-~ The app should facilitate storing the data in a MongoDB database and allow users to collect data from up to 10 different channels like    Channel details, Playlists details, Video details, Comments details
-~ It should offer the capability to migrate selected channel data from the data lake(MongoDB) to a SQL database for further analysis
+2. The app should facilitate storing the data in a MongoDB database and allow users to collect data from up to 10 different channels like    Channel details, Playlists details, Video details, Comments details
+3. It should offer the capability to migrate selected channel data from the data lake(MongoDB) to a SQL database for further analysis
 
 KEY SKILLS FROM THE PROJECT - 
 -----------------------------
@@ -27,12 +27,12 @@ TECHNOLOGY STACK USED -
 INSTALLATION STAGE -
 ---------------------
 *libraries need to be installed on the computer before starting this project are:
-👇 
-pip install google-api-python-client
-pip install pymongo
-pip install pandas
-pip install psycopg2
-pip install streamlit
+
+1. pip install google-api-python-client
+2. pip install pymongo
+3. pip install pandas
+4. pip install psycopg2
+5. pip install streamlit
 
 FEATURES - 
 -----------
