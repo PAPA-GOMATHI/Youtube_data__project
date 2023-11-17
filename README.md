@@ -19,7 +19,7 @@ KEY SKILLS FROM THE PROJECT -
 TECHNOLOGY STACK USED -
 -----------------------
 1. PYTHON
-2. SQL
+2. SQL (Postgresql)
 3. STREAMLIT
 4. MongoDB
 5. Google API client library
