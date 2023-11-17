@@ -36,10 +36,10 @@ INSTALLATION STAGE -
 
 FEATURES - 
 -----------
-* Retrieve data from the YouTube API, including channel information, playlists, videos, and comments
-* Store the retrieved data in a MongoDB database
-* Migrate the data to a SQL data warehouse
-* Perform queries on the SQL data warehouse
+1. Retrieve data from the YouTube API, including channel information, playlists, videos, and comments
+2. Store the retrieved data in a MongoDB database
+3. Migrate the data to a SQL data warehouse
+4. Perform queries on the SQL data warehouse
 
 PROJECT APPROACH -
 ------------------
