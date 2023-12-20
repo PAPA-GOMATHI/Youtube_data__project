@@ -145,7 +145,7 @@ def get_playlist_info(channel_id):
 
     
 #MONGODB CONNECTION - 
-client = pymongo.MongoClient('mongodb://localhost:27017')
+client = pymongo.MongoClient('connection port')
 database_Name = client['Youtube_project']
 Coll_Name = database_Name['Channel_Details']
     
@@ -591,7 +591,7 @@ elif show_table == 'COMMENTS':
 #SQL CONNECTION
 db = psycopg2.connect(host='localhost',
                        user='postgres',
-                       password = 'vela',
+                       password = '******',
                        database='youtube_details_db',
                        port='5432')
 
